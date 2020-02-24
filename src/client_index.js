@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ClientApp from './components/client_app.js';
+import App from './components/app.js';
 
 ReactDOM.render(
-  <ClientApp />,
+  <App />,
   document.getElementById('root')
 );
