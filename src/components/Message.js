@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from 'react-dom';
 
-export default class ErrorMessage extends React.Component {
+export default class Message extends React.Component {
 
   constructor() {
     super();
