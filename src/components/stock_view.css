@@ -1,0 +1,22 @@
+.stock-chart {
+  padding: 20px;
+  background: beige;
+}
+
+.stock-list {
+  padding: 50px;
+  background: lightblue;
+}
+
+.message {
+  padding: 5px;
+}
+
+.error {
+  border-radius: 5px;
+  padding: 10px;
+  background: firebrick;
+  color: white;
+  font-weight: 600;
+  display: inline-block;
+}
