@@ -1,15 +1,6 @@
-.stock-chart {
-  padding: 20px;
-  background: beige;
-}
-
-.stock-list {
-  padding: 50px;
-  background: lightblue;
-}
-
 .message {
   padding: 5px;
+  cursor: pointer;
 }
 
 .error {

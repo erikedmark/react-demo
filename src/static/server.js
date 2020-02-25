@@ -2,7 +2,6 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-
 http.createServer(function (request, response) {
 
 	var filePath = '.' + request.url;
